@@ -1,7 +1,7 @@
 <?php
 $user = "dbmsproject";
-$server ="166.62.8.16";
-$passwd = "L3g3nd@ry@vd";
+$server ="127.0.0.1";
+$passwd = "NULL";
 $database = "dbmsproject";
 $link = mysqli_connect($server, $user, $passwd, $database);
 
